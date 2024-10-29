@@ -1,0 +1,1 @@
+exec /data/zopen/usr/local/bin/bash  --rcfile $HOME/.bash_profile
